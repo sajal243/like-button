@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/like-button/static/css/main.4d6ae326.css",
+    "main.js": "/like-button/static/js/main.68a248bf.js",
+    "index.html": "/like-button/index.html",
+    "main.4d6ae326.css.map": "/like-button/static/css/main.4d6ae326.css.map",
+    "main.68a248bf.js.map": "/like-button/static/js/main.68a248bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6ae326.css",
+    "static/js/main.68a248bf.js"
+  ]
+}
