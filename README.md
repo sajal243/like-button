@@ -1,6 +1,7 @@
-#Like Button
+#Like-Button
 
-#Maintain all state --- 
+###Maintain-all-state
+
 1- Default
 2 - Hover
 3 - Liked
